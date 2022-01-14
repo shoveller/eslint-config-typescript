@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-typescript",
+  "version": "0.0.1",
+  "description": "서재원 전용 eslint 룰",
+  "peerDependencies": {
+    "@typescript-eslint/parser": ">=5.8.1",
+    "eslint": ">=8.6.0",
+    "eslint-plugin-functional": ">=4.0.2",
+    "eslint-plugin-react": ">=7.28.0",
+    "eslint-plugin-unused-imports": ">=2.0.0"
+  },
+  "keywords": [],
+  "author": "cinos81@gmail.com",
+  "license": "ISC"
+}
